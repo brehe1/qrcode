@@ -1,0 +1,37 @@
+.attribution {
+  background-color: white /*fallback-color*/;
+  background-color: hsl(0, 0%, 100%);
+  margin: 40px auto;
+  width: 20%;
+  padding: 25px 25px;
+  text-align: center;
+  border-radius: 35px;
+
+}
+.qrcode { margin-top: 10px;
+  border-radius: 28px;
+  width: 250px;
+  height: 250px;
+}
+
+body {
+  background-color: #073A74;
+  background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+  font-family: 'outfit';
+  font-weight: 700;
+  color:#5279BC;
+  color: hsl(218, 44%, 22%);
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Outfit' ;
+  color: #7B879D;
+  color: hsl(220, 15%, 55%);
+}
